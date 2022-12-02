@@ -32,7 +32,5 @@ public class StudentService {
         Students st=new Students();
         return st;
     }
-    public  StudentRepository getStudentRepository(){
-        return studentRepository;
-    }
+    
 }
